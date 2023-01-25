@@ -1,4 +1,4 @@
-id,latitud,longitud,cobertura
+id_zona,latitud,longitud,cobertura
 1,10.3753838,123.9555544,4718
 2,56.3103675,38.1016955,3109
 3,-7.2026914,108.1013637,4820
