@@ -1,4 +1,4 @@
-id,id_propietario,nombre,latitud,longitud
+id_ubicacion,id_propietario,nombre,latitud,longitud
 1,5,Snowy owl,59.834171,30.5188521
 2,5,Mallard,49.0711781,29.8488529
 3,4,Roan antelope,-37.8268291,174.7994271
